@@ -1,0 +1,4 @@
+#Test when firing fails not due to being empty dont fire the next store
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
