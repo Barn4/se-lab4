@@ -1,0 +1,4 @@
+#Test return of Torpedo firing.
+GT4500,1,0,2,1
+TORPEDO,ALL
+TORPEDO,ALL

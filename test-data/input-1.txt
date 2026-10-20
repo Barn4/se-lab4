@@ -1,0 +1,5 @@
+#Test Single fire mode with primary store always failing, secondary store always succeding
+GT4500,1,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
